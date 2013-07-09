@@ -1,6 +1,6 @@
-.class
-.jar
+*.class
+*.jar
 .classpath
 .project
-.settings
-.prefs
+.settings\*
+bin\*
